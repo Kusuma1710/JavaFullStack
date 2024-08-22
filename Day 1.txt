@@ -1,0 +1,52 @@
+CONTENTS:
+
+1.JAVA
+2.DATABASE 
+3.JDBC
+4.SPRING
+5.TESTING
+6.DEVOPS
+7.UI
+8.PROJECT
+9.ASSIGNMENT
+10.SOFTWARE
+
+
+DAY 1: Generations of programming - JDK,JRE,JVM
+	javac, java, javap, javad, javadoc)
+components of JVM -  loader, bytecode verifier, execution engine.
+classes and objects
+data types - primitive 8 types and array 
+operators -  arithemetic,bitwise,logical,relational,assingment,unary,ternary
+control statements - if else, witch, nested if.\, for each,
+loops - for,do while, while
+arays - dynamic array
+classes and methods
+access specifiers - public,private, protected.
+encapsulation
+inheritance- 
+java lang package
+
+	PACKAGES
+ 	a.pgrmn to demonstrate ternary operator,
+	b.pgrm to find the num is even or odd, 
+	C.check the person is eligible for vote or not,
+	d.display the number from 10-1, 
+	e.display mutiplication number of accepted number,
+	f.pgrm to daisplay 3*3 array,
+	g.display digital clock
+	h.pgrm to show the difference btw  static methods,method and constructer
+	i.pgrm to display single inheritance
+
+
+DAY 2:abstraction,
+polymorphism,
+abstact class, 
+multiple inheritance,
+interfaces,
+exception,
+keywords,
+throw, throws,
+assertions,
+java(abstract window toolkit,
+java.swing
